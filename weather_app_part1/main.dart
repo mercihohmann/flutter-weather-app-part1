@@ -9,7 +9,7 @@ class WeatherApp extends StatefulWidget {
 
 class _WeatherAppState extends State<WeatherApp> {
   int temperature = 0;
-  String location = 'San Fransisco';
+  String location = 'San Francisco';
 
   @override
   Widget build(BuildContext context) {
